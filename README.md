@@ -1,4 +1,4 @@
-# The Rust Programming Language
+# Rust için Kitâb-ı Lisân-ı Fermân 
 
 ![Build Status](https://github.com/rust-lang/book/workflows/CI/badge.svg)
 
